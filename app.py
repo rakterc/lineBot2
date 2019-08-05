@@ -4,7 +4,7 @@ import json
 import requests
 
 app = Flask(__name__)
-น.ส.ศรัญญา สุทธิธรรม เลขที่ 27 ชั้นม.4/10
+
 @app.route('/')
 def index():
     a=os.environ['Authorization']
